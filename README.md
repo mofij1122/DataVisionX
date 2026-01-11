@@ -67,3 +67,20 @@ DataVisionX/
 │── theme.py
 │── Home.py
 │── TODO.md
+
+
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+**Mofij Khan**  
+GitHub: https://github.com/mofij1122  
+
+---
+
+⭐ If you like this project, don’t forget to give it a star!
